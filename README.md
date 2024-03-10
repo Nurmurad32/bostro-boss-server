@@ -10,6 +10,6 @@ This is a restaurant management website that shows the different categories of f
 
 >GitHub Link:
 >
->> Client Side Code : [Bistro Boss Client Side Code]()
+>> Client Side Code : [Bistro Boss Client Side Code](https://github.com/Nurmurad32/bistro-boss-client)
 >>
->> Server Side Code : [Bistro Boss Server Side Code]()
+>> Server Side Code : [Bistro Boss Server Side Code](https://github.com/Nurmurad32/bostro-boss-server)
